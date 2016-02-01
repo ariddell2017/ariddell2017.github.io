@@ -1,0 +1,60 @@
+body {
+  font-family: "Helvetica", sans-serif;
+  width: 960px;
+  margin: 10px auto;
+  background-color:black;
+}
+
+.container-fluid {
+  background-color: #F0F0F0 ;
+}
+
+
+  img {
+    max-width: 100%;
+    max-height: 80%%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    image float: right;
+}
+
+ img.hompage {
+   max-width: 100%;
+   max-height: 100%%;
+   image float: center;
+ }
+
+.header {
+  background-image: url("Banner2 (1024x172).jpg");
+  padding:80px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+
+}
+.footer {
+  background-image: url("Banner2 (1024x172).jpg");
+  padding:80px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.row {
+  border-top-style: solid;
+  border-top-color: black;
+  margin-top: 10px;
+
+}
+
+.thumbnail {
+  margin: 0px;
+  border-bottom: 0px;
+}
+
+
+.jumbotron {
+  background-color:#0066CC;
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
